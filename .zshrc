@@ -103,23 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-export PATH=$HOME/.brew/bin:$PATH
-# Add Visual Studio Code (code)
-export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 # Add Visual Studio Code (code)
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
